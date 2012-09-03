@@ -3,8 +3,6 @@ The goal of this project is to build a webapp which reads entities saved in XLS/
 
 Install
 Check out the source and put them under ./hot-deploy/.
-
-svn checkout https://ofbiz-entity-import.googlecode.com/svn/trunk/ ofbiz-entity-import
 Import the entities which define permissions of this webapp in this file entity-import/data/entity-importSecurityData.xml
 
 Usage
